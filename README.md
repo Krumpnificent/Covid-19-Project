@@ -8,7 +8,7 @@ In this analysis keys areas and factors and factors were considered and they inc
 - impact on initial and revised bugets for the year 2020
 - rate of contraction
 - confirmed cases, deaths, admission and discharges of infected individuals.
-- effects on nigeria's GDP in the year 2020 and also comparison with previous years and so on.
+- effects on nigeria's GDP in the year 2020 and also comparison with previous years and so on
     
     
     
