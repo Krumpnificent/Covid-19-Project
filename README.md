@@ -8,7 +8,7 @@ In this analysis keys areas and factors and factors were considered and they inc
 - impact on initial and revised bugets for the year 2020
 - rate of contraction
 - confirmed cases, deaths, admission and discharges of infected individuals.
-- effects on nigeria's GDP in the year 2020 and also comparison with previous years and so on
+- effects on nigeria's GDP in the year 2020 and also comparison with previous years and so on.
     
     
     
@@ -65,11 +65,6 @@ For all the daframes(df for short), i used the `df.head()` and `df.info()` to ge
 
 
 ### DATA CLEANING AND PREPARATION
-
-Convert to appropriate data type.
-Rename the columns of the scraped data.
-Remove comma(,) in numerical data
-Extract daily data for Nigeria from the Global daily cases data
 
 
 I converveted columns to their appropriate types. 
